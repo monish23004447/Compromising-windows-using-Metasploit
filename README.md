@@ -20,8 +20,8 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 
 Open terminal and try execute some kali linux commands
-### Name : Mukesh V
-### Reg No : 212222230086
+### Name : MONISHKUMAR.V
+### Reg No : 212223040116
 ### PROGRAM:
 Find the attackers ip address using ifconfig
 #### OUTPUT:
